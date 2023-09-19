@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.top_header {
+    height: 32px;
+    width: 100%;
+    background-color: rgb(28, 124, 92);
+}
